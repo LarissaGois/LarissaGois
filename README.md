@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LarissaGois
-- 👀 I’m interested in Programming, UX and UI Design.
-- 🌱 I’m currently learning systems development.
-- 💞️ I’m looking to collaborate on design and front-end development.
+- 👀 I’m interested in Data science and AI.
+- 🌱 I'm currently learning computer science.
+- 💞️ I'm looking to collaborate on projects in data analysis and AI development..
 - 📫 How to reach me - mail: larissa.gois2012@gmail.com
 
 <!---
