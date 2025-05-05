@@ -4,9 +4,7 @@
 
 <h3 align="left">
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Pronouns: she | her :nail_care: <br> 
-  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
-      Software Science Computing :mortar_board: <br>
+      Science Computing :mortar_board: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
       Data & BI Analyst! :notebook: <br>
   <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="10">
@@ -18,5 +16,8 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=larissagois&theme=midnight-purple&hide_border=true" width="56%" height="50%" align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissagois&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
 
+<div align="center">
 
-<img src="https://github.com/LarissaGois/LarissaGois/blob/output/github-contribution-grid-snake-dark.svg" width="25000">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
